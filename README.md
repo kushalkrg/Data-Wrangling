@@ -5,4 +5,4 @@ Data wrangling is process of gathering, assessing, and cleaning data. Used Pytho
 
 --wrangle_act.ipynb is the iPython Notebook which contains the whole wrangling and analysis process.
 
---act_reporty.ipynb and act_report.pdf are the iPython Notebook which contains the Analysis Report.
+--act_reporty.ipynb and act_report.pdf are the iPython Notebook which contains the Analysis Report with Insights.
